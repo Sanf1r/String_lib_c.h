@@ -1,6 +1,8 @@
 ## String_lib_c.h
 
-Made on May 25 2022 as my first project in School 21 :)
+Made on May 25 2022 as my first project in School 21 :) 
+
+Tested on MacOS Big Sur 11.6.6.
 
 This project is custom implementation of the string.h library in C programming language with some additions (own implementation of sprintf function). The string.h library is the main C library for string processing.
 ### string.h Types
